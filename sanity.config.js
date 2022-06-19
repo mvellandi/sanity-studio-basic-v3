@@ -4,7 +4,7 @@ import {schemaTypes} from './schemas'
 
 export default createConfig({
   name: 'default',
-  title: 'v3',
+  title: 'sanity-studio-basic-v3',
 
   projectId: '',
   dataset: 'production',
